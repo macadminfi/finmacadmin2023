@@ -6,3 +6,5 @@ The materials are divided per presentation and the copyright/license is per pres
 
 ## Presentation links
 
+* [Janne Lehikoinen - How To Build A SwiftUI Menu Bar App](https://github.com/macadminfi/finmacadmin2023/blob/main/HowToBuildASwiftUIMenuBarApp-JanneLehikoinen/HowToBuildASwiftUIMenuBarApp.pdf)
+* [Petri Riihikallio - WiFi 6E](https://github.com/macadminfi/finmacadmin2023/blob/main/WiFi6E-PetriRiihikallio/WiFi6E%202023.pdf)
